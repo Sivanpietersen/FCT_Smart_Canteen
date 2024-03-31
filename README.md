@@ -1,1 +1,2 @@
-# FCT_Smart_Canteen
+# FCT-SM-Canteen
+IOT base Project
